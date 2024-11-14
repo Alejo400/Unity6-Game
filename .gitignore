@@ -11,6 +11,8 @@
 /[Uu]ser[Ss]ettings/
 /#Build/
 /Assets/Resources/
+/Assets/_Prefabs/
+/Assets/_Scripts/Design Patterns
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
