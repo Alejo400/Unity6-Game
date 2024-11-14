@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "3D Unity 6 Practice.sln"
+    "dotnet.defaultSolution": "Unity6-Game.sln"
 }
